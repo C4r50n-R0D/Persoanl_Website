@@ -1,2 +1,2 @@
-# Persoanl_Website
-Personal website 
+# Carson Rodrigeuz
+Personal website and resume
